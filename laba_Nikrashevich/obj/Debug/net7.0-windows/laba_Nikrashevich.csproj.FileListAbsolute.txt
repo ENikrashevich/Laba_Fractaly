@@ -1,0 +1,14 @@
+C:\Users\Егор\Desktop\laba_Nikrashevich\bin\Debug\net7.0-windows\laba_Nikrashevich.exe
+C:\Users\Егор\Desktop\laba_Nikrashevich\bin\Debug\net7.0-windows\laba_Nikrashevich.deps.json
+C:\Users\Егор\Desktop\laba_Nikrashevich\bin\Debug\net7.0-windows\laba_Nikrashevich.runtimeconfig.json
+C:\Users\Егор\Desktop\laba_Nikrashevich\bin\Debug\net7.0-windows\laba_Nikrashevich.dll
+C:\Users\Егор\Desktop\laba_Nikrashevich\bin\Debug\net7.0-windows\laba_Nikrashevich.pdb
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\laba_Nikrashevich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\laba_Nikrashevich.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\laba_Nikrashevich.AssemblyInfo.cs
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\laba_Nikrashevich.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\laba_Nikrashevich.dll
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\refint\laba_Nikrashevich.dll
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\laba_Nikrashevich.pdb
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\laba_Nikrashevich.genruntimeconfig.cache
+C:\Users\Егор\Desktop\laba_Nikrashevich\obj\Debug\net7.0-windows\ref\laba_Nikrashevich.dll
